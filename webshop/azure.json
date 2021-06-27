@@ -5,12 +5,12 @@
         "project": "webshop",
         "target": "build",
         "configuration": "production",
-        "path": "dist/webshop"
+        "path": "dist/angular-basic"
       },
       "azureHosting": {
         "subscription": "f522c361-0303-4729-94c0-50446f6bd617",
-        "resourceGroupName": "webshop-static-deploy",
-        "account": "webshopstatic"
+        "resourceGroupName": "Testing",
+        "account": "amadeoterri-hogent"
       }
     }
   ]
